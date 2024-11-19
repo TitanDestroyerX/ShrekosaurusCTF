@@ -1,0 +1,2 @@
+# ShrekosaurusCTF
+Playable CTF Challenge
