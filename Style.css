@@ -1,0 +1,26 @@
+body {
+	background: #1a3300;
+	font-family: georgia;
+	color: #20fa7f;
+	margin: 100px;
+}
+
+h1 {
+	color: #f85d09;
+	text-shadow: 2px 2px 2px rgb(104, 15, 12);
+}
+
+h3 {
+	color: #ff9966;
+	text-shadow: 1px 1px 1px rgb(48, 87, 36);
+
+}
+
+#div1 {
+	width: 768px;
+	height: 1024px;
+	background-image: url("shrek.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	
+}
